@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farrelsn&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="farrelsn" />
-  <img src="https://github-readme-stats.vercel.app/api?username=farrelsn&theme=tokyonight&show_icons=true&locale=en" alt="farrelsn" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=farrelsn&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="farrelsn" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrelsn&theme=tokyonight" alt="farrelsn" />
 </p>
